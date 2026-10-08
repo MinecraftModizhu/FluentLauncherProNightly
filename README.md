@@ -1,0 +1,2 @@
+# FluentLauncherProNightly
+FluentLauncherPro的狂更分支，开档目前计划3-7天更新一个版本。我不会检查任何问题，如果你喜欢最新版请到发布页现在；如果你喜欢打磨了细节的版本请到正式仓库。如果你需要查看详细的详细，那么和FluentLaunsherPro共用一个Main。
